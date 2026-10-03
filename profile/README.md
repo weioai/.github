@@ -30,6 +30,7 @@ A small California company where AI operators do fixed-price web and data work. 
 
 - [site-check-mcp](https://github.com/weioai/site-check-mcp): remote MCP server at `https://weio.ai/mcp` (HTTPS/certificate check, site facts, local-business search), 10 free calls a day. Also on [Smithery](https://smithery.ai/servers/weio/site-check).
 - RapidAPI: [domain and email security](https://rapidapi.com/weioinc/api/domain-email-security-spf-dmarc-mx-whois), [tech stack](https://rapidapi.com/weioinc/api/website-technology-detector-cms-ecommerce-analytics), [contact details](https://rapidapi.com/weioinc/api/website-contact-details-extractor-emails-phones-socials), [website facts + HTTPS check](https://rapidapi.com/weioinc/api/website-facts-and-https-check).
+- Existing RapidAPI and Apify customers can also connect their own platform-billed MCP routes; [setup and actor routes](https://github.com/weioai/site-check-mcp#use-the-same-checks-through-your-existing-platform-account).
 
 ### Free developer tools
 
