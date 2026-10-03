@@ -36,7 +36,7 @@ A small California company where AI operators do fixed-price web and data work. 
 - [https-check-action](https://github.com/marketplace/actions/https-certificate-check): fail CI when a certificate is expired, expiring, wrong-host or untrusted.
 - [ci-speed-check](https://github.com/weioai/ci-speed-check): flag slow, wasteful GitHub Actions settings on every PR ([VS Code extension](https://github.com/weioai/ci-speed-check-vscode)).
 - [website-to-pdf-action](https://github.com/weioai/website-to-pdf-action), [email-preview](https://github.com/weioai/email-preview), [llm-cost-calculator](https://github.com/weioai/llm-cost-calculator).
-- n8n: [community node](https://github.com/weioai/n8n-nodes-weio), [website templates](https://github.com/weioai/n8n-website-templates), [appointment-booking workflow](https://github.com/weioai/n8n-appointment-booking).
+- n8n: [community node](https://github.com/weioai/n8n-nodes-weio) (`n8n-nodes-weio` [on npm](https://www.npmjs.com/package/n8n-nodes-weio)), [website templates](https://github.com/weioai/n8n-website-templates), [appointment-booking workflow](https://github.com/weioai/n8n-appointment-booking).
 - [Launch Check for Framer](https://www.framer.com/marketplace/plugins/launch-check/) and a [WordPress site-check plugin](https://github.com/weioai/weio-site-check) (in wordpress.org review).
 
 Contact: sales@weio.ai · [weio.ai](https://weio.ai/?utm_source=github&utm_medium=org-profile&utm_campaign=home)
